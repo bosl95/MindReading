@@ -1,0 +1,106 @@
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\bin\Debug\MindReading.exe.config
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\bin\Debug\MindReading.exe
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\bin\Debug\MindReading.pdb
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\obj\Debug\MindReading.Form1.resources
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\obj\Debug\MindReading.exe
+D:\2017 2학년 2학기\C#\프로젝트\MindReading\MindReading\MindReading\obj\Debug\MindReading.pdb
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\bin\Debug\MindReading.exe.config
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\bin\Debug\MindReading.exe
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\bin\Debug\MindReading.pdb
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\obj\Debug\MindReading.Form1.resources
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\obj\Debug\MindReading.exe
+F:\C#실습\MindReading (서버) 3.0\MindReading\MindReading\MindReading\obj\Debug\MindReading.pdb
+D:\2017 2학년 2학기\C#\프로젝트\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\2017 2학년 2학기\C#\프로젝트\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.Form1.resources
+D:\2017 2학년 2학기\C#\프로젝트\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\2017 2학년 2학기\C#\프로젝트\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\2017 2학년 2학기\C#\프로젝트\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.exe
+D:\2017 2학년 2학기\C#\프로젝트\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.pdb
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\bin\Debug\MindReading.exe.config
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\bin\Debug\MindReading.exe
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\bin\Debug\MindReading.pdb
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.Form1.resources
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.exe
+F:\C#실습\MindReading(서버) 5.0\MindReading (서버) 4.0\MindReading\MindReading\obj\Debug\MindReading.pdb
+D:\C#실습\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe.config
+D:\C#실습\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.exe
+D:\C#실습\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.pdb
+D:\C#실습\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe
+D:\C#실습\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.pdb
+D:\C#실습\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\C#실습\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Form1.resources
+D:\C#실습\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\C#실습\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe.config
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Form1.resources
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)7.0.1\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe.config
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Form1.resources
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)9.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe.config
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\bin\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Form1.resources
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)7.0.1\MindReading\obj\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\bin\Debug\MindReading.exe.config
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\bin\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\bin\Debug\MindReading.pdb
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\obj\Debug\MindReading.Form1.resources
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\obj\Debug\MindReading.exe
+D:\소희\씨샵\MindReading(서버)10.0\MindReading(서버)11.0\MindReading\obj\Debug\MindReading.pdb
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.exe.config
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.exe
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.pdb
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.Form1.resources
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.exe
+C:\Users\ㄱㅊㅇ\Desktop\MindReading(서버)12.0\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.pdb
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.exe.config
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.exe
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.pdb
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csprojResolveAssemblyReference.cache
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.Form1.resources
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csproj.GenerateResource.Cache
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.exe
+C:\Users\응솔\Desktop\으윽\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.pdb
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.exe.config
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.exe
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\bin\Debug\MindReading.pdb
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csprojAssemblyReference.cache
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.Form1.resources
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csproj.GenerateResource.cache
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csproj.CoreCompileInputs.cache
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.exe
+D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.pdb
