@@ -18,8 +18,41 @@ namespace MindReading
         NetworkStream stream = null; //네트워크 스트림
         StreamReader reader = null; //읽기 문자 스트림
         StreamWriter writer = null; //쓰기 문자 스트림
-        int index = 0;	//
+        int index = 0;  //
 
+        delegate void CrossThreadSafetySetText(System.Windows.Forms.Control ctl, String text);
+
+
+        private void CSafeSetText(System.Windows.Forms.Control ctl, String text)
+        {
+
+            /*
+             * InvokeRequired 속성 (Control.InvokeRequired, MSDN)
+             *   짧게 말해서, 이 컨트롤이 만들어진 스레드와 현재의 스레드가 달라서
+             *   컨트롤에서 스레드를 만들어야 하는지를 나타내는 속성입니다.  
+             * 
+             * InvokeRequired 속성의 값이 참이면, 컨트롤에서 스레드를 만들어 텍스트를 변경하고,
+             * 그렇지 않은 경우에는 그냥 변경해도 아무 오류가 없기 때문에 텍스트를 변경합니다.
+             */
+            if (ctl.InvokeRequired)
+                ctl.Invoke(new CrossThreadSafetySetText(CSafeSetText), ctl, text);
+            else
+                ctl.Text = text;
+        }
+
+        public delegate void CrossThreadSafetyPanel(System.Windows.Forms.Panel panel);
+        public void ControlToPanel(System.Windows.Forms.Panel panel)
+        {
+            if (panel.InvokeRequired)
+            {
+                panel.Invoke((System.Windows.Forms.MethodInvoker)delegate { ControlToPanel(panel); });
+            }
+            else
+            {
+                panel.Invalidate(); //<-- here is where the exception is raised
+                panel.Update();
+            }
+        }
 
         public Network(Form1 wnd)
         { // 생성자
@@ -42,7 +75,8 @@ namespace MindReading
                     if (wnd.turn == true)	//서버차례가 됐을때
                     {
                         index = wnd.random.Next(0,wnd.answer.Length-1);	//answer의 인덱스를 랜덤으로 받은것
-                        wnd.label5.Text = wnd.answer[index];	//문제에다가 answer의 인덱스(값)를 넣음
+                        //wnd.label5.Text = wnd.answer[index];	//문제에다가 answer의 인덱스(값)를 넣음
+                        CSafeSetText(wnd.label5, wnd.answer[index]);
                     }
                     wnd.timer_start();	//타이머 시작(delegate), 델리게이트를 부르는 함수
                 }
@@ -143,7 +177,8 @@ namespace MindReading
                     
                     if (temp[0] == "nickname")
                     {
-                        wnd.label2.Text = temp[1];	//닉네임을 받음
+                        //wnd.label2.Text = temp[1];	//닉네임을 받음
+                        CSafeSetText(wnd.label2, temp[1]);
                         //wnd.label2Change(temp[1]);
                     }
                     else if (temp[0] == "chat")
@@ -156,9 +191,9 @@ namespace MindReading
                             Send("answer:" + msg);
 
                             wnd.saveData.Clear();		//그림판 청소
-                            wnd.label5.Text = "";
-                            wnd.panel1.Invalidate();	//초기화
-                            wnd.panel1.Update();		//청소했으니 업데이트
+                            CSafeSetText(wnd.label5, "");
+                            CSafeSetText(wnd.panel1, "panel");
+                            ControlToPanel(wnd.panel1);
                             wnd.mycount = 60;		//타이머 다시 60초로 바꿈(초기화)
                             wnd.turn = !wnd.turn;	//차례를 바꿈
                         }
@@ -169,15 +204,15 @@ namespace MindReading
                     {
                         wnd.Add_MSG(temp[1]);	//내 메세지창에도 정답입니다를 씀
                         wnd.saveData.Clear();	//그림판 청소
-                        wnd.panel1.Invalidate();	//얘도
-                        wnd.panel1.Update();	//청소햇으니 업데이트
+                        CSafeSetText(wnd.panel1, "panel");
                         wnd.mycount = 60;	//카운트 초기화
                         wnd.turn = !wnd.turn;//차례를 바꿈
                         if (wnd.turn == true)	//다음 차례로 바꿈
                         {
                             index = wnd.random.Next(0, wnd.answer.Length - 1);
                             //인덱스를 랜덤으로 돌리고
-                            wnd.label5.Text = wnd.answer[index];
+                            //wnd.label5.Text = wnd.answer[index];
+                            CSafeSetText(wnd.label5, wnd.answer[index]);
                             //그 인덱스에 있는 answer을 문제로 냄
                         }
 

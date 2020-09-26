@@ -104,3 +104,13 @@ D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버
 D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.csproj.CoreCompileInputs.cache
 D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.exe
 D:\으윽\2-2\비주얼언어실습(C#)\프로젝트\최종 서버\최종 서버\MindReading(서버)12.0\MindReading\obj\Debug\MindReading.pdb
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\bin\Debug\MindReading.exe.config
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\bin\Debug\MindReading.exe
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\bin\Debug\MindReading.pdb
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.csprojAssemblyReference.cache
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.Form1.resources
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.Properties.Resources.resources
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.csproj.GenerateResource.cache
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.csproj.CoreCompileInputs.cache
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.exe
+C:\Users\sor\Desktop\Study\C#\MindReading\server\MindReading\obj\Debug\MindReading.pdb
